@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello, Go Essentials!")   //String
-	fmt.Printf("Saída formatada: %v\n", 2) // Saída formata com printf e utilizando String e números.
+	fmt.Printf("Saída formatada: %v\n", 2) // Saída formatada com printf e utilizando String e números.
 
 	fmt.Println(2) //Inteiros
 
