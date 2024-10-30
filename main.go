@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+)
 
 func main() {
 	fmt.Println("Hello, Go Essentials!")   //String
@@ -15,6 +18,7 @@ func main() {
 	// Booleanos
 	fmt.Println(true)
 	fmt.Println(false)
+	fmt.Println(strings.Split("Adriano", ""))
 }
 
 // Pasta == folders podem ter múltiplos arquivos.
