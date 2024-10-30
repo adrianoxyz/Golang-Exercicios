@@ -15,4 +15,10 @@ func main() {
 	soma = num1 + num2
 	fmt.Println("A soma de", num1, "e", num2, "foi: ", soma)
 
+	// Tipos:
+	// Boolean (True/False)
+	// String - Sequência de Bytes
+	// int
+	// Float (float64/float32) - decimal
+
 }
