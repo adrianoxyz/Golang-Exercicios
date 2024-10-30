@@ -8,5 +8,5 @@ func main() {
 
 	fmt.Println("Digite um número: ")
 	fmt.Scanln(&num)
-	fmt.Printf("O número informado foi %v", num)
+	fmt.Println("O número informado foi: ", num)
 }
